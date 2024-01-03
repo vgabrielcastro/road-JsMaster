@@ -139,6 +139,10 @@ li a:hover {
   color: var(--primary-200);
 }
 
+.hidden {
+  display: none;
+}
+
 @media (max-width: 36rem) {
   ul {
     grid-template-columns: 1fr;
